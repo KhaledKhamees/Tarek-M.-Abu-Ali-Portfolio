@@ -311,7 +311,7 @@ function App() {
                 }}
               />
               <img
-                src="/public/profile.jpg"
+                src="/profile.jpg"
                 alt="Profile"
                 className="w-full h-full object-cover"
               />
