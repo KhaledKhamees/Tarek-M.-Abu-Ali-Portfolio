@@ -45,7 +45,7 @@ function App() {
     animate: { opacity: 1, y: 0 },
     transition: { duration: 0.6 }
   };
-
+// Projects 
   const projects = [
     {
       id: 1,
@@ -68,7 +68,7 @@ function App() {
       icons: [BookOpen, Database, Lock]
     }
   ];
-
+//skills
   const skills = {
     technical: [
       {
@@ -98,17 +98,9 @@ function App() {
       "Critical Thinking",
       "Adaptability",
       "Collaboration & Teamwork",
-      "Curiosity & Continuous Learning",
-      "Time Management",
-      "Creativity & Innovation",
-      "Presentation Skills",
-      "Resilience & Perseverance",
-      "Business Acumen",
-      "Storytelling with Data",
-      "Accountability & Ownership"
     ]
   };
-
+//experiences
   const experiences = [
     {
       title: "Machine Learning Intern",
