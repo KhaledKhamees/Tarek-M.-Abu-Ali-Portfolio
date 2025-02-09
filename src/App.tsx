@@ -47,7 +47,7 @@ function App() {
   };
 // Projects 
   const projects = [
-    {
+    /*{
       id: 1,
       title: "--",
       shortDescription: "--",
@@ -66,18 +66,18 @@ function App() {
       github: "--",
       image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=800&h=600&fit=crop",
       icons: [BookOpen, Database, Lock]
-    }
+    }*/
   ];
 //skills
   const skills = {
     technical: [
       {
         category: "Programming Languages",
-        items: ["Python", "SQL"]
+        items: ["Python"]
       },
       {
         category: "Frameworks & Libraries",
-        items: ["Pandas", "NumPy", "Scikit-Learn", "TensorFlow"]
+        items: ["Pandas", "NumPy"]
       },
       {
         category: "Tools & Platforms",
