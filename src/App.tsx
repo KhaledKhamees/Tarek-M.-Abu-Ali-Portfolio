@@ -81,11 +81,11 @@ function App() {
       },
       {
         category: "Tools & Platforms",
-        items: ["Docker"]
+        items: ["Docker","Scikit-Learn","TensorFlow"]
       },
       {
         category: "Databases",
-        items: ["MongoDB"]
+        items: ["MongoDB","SQL"]
       }
     ],
     soft: [
